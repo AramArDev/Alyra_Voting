@@ -1,5 +1,5 @@
-# My Project
-is really really cool. My Project has a subdir named myLib, see below.
+# Alyra_Voting
+Le contract a été poublié sur ipfs.
 
 ## myLib documentation
-see documentation [here](https://ipfs.io/ipfs/QmSD4dtnruFxK5tsmekvpUE8nqwcXhZxZ3AeJGu8kbWAjY)
+Pour la voir cliquez [ici](https://ipfs.io/ipfs/QmSD4dtnruFxK5tsmekvpUE8nqwcXhZxZ3AeJGu8kbWAjY)
